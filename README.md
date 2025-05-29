@@ -3,4 +3,4 @@ This is my personal MAL layout but you can publicly **fork**, or do whatever to 
 > Note that this is very hard to set up as you may not have any knowledge of setting this up.
 Private/ whatever you can do anything with this resp
 
-[MAL](https://pages.github.com/)
+[MAL](https://myanimelist.net/animelist/ofve)
